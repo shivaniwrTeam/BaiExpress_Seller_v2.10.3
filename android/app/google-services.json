@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "412412092775",
+    "project_id": "baiexpress-9c7ca",
+    "storage_bucket": "baiexpress-9c7ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412412092775:android:5f36635793ef6c7b340fc2",
+        "android_client_info": {
+          "package_name": "com.baiexpress.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412412092775-iekn56e40ihh6hd8ibdcroqbc6rn8unh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baiexpress.customer",
+            "certificate_hash": "4cd56deeeb4613231f689af5e46f5e76e2ec2da2"
+          }
+        },
+        {
+          "client_id": "412412092775-hgig1sqm9rqbuqf6akmo21kovmiqcvig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWlkQydzinZ6dzeGys388g8t0B30_o8ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412412092775-hgig1sqm9rqbuqf6akmo21kovmiqcvig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412412092775-3acib66ipho5qoadd7sejl8bqe7tui41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.baiexpress.seller"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412412092775:android:d4fddc39a6f77737340fc2",
+        "android_client_info": {
+          "package_name": "com.baiexpress.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412412092775-1qdgt9dfi5ddlslfh5q74lbeo5mi60fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baiexpress.rider",
+            "certificate_hash": "4cd56deeeb4613231f689af5e46f5e76e2ec2da2"
+          }
+        },
+        {
+          "client_id": "412412092775-hgig1sqm9rqbuqf6akmo21kovmiqcvig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWlkQydzinZ6dzeGys388g8t0B30_o8ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412412092775-hgig1sqm9rqbuqf6akmo21kovmiqcvig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412412092775-3acib66ipho5qoadd7sejl8bqe7tui41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.baiexpress.seller"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412412092775:android:4546ea0b0389b09e340fc2",
+        "android_client_info": {
+          "package_name": "com.baiexpress.seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412412092775-okah2s311tg1lntprn3k1dks9395vfjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baiexpress.seller",
+            "certificate_hash": "4cd56deeeb4613231f689af5e46f5e76e2ec2da2"
+          }
+        },
+        {
+          "client_id": "412412092775-hgig1sqm9rqbuqf6akmo21kovmiqcvig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWlkQydzinZ6dzeGys388g8t0B30_o8ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412412092775-hgig1sqm9rqbuqf6akmo21kovmiqcvig.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412412092775-3acib66ipho5qoadd7sejl8bqe7tui41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.baiexpress.seller"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
